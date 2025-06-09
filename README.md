@@ -1,9 +1,32 @@
 <<<<<<< HEAD
-# IOS-app-text.summarization
+📚 iOS Study Companion – Text Summarizer & Exam Tracker
 =======
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+iOS Study Companion is your all-in-one mobile app built with React Native, designed to boost study efficiency for competitive exam aspirants. Whether you're prepping for GRE, GMAT, CAT, or other major exams, this app helps you study smarter — not harder.
 
-# Getting Started
+✨ Features
+🔍 Intelligent Summarization
+Converts long PDFs and text files into concise bullet-point summaries
+
+Uses T5 Mini Transformer model for fast, accurate NLP-based summarization
+
+Perfect for revision, note-taking, and extracting key concepts from bulky content
+
+📆 Exam Tracker & Resources
+View upcoming test dates for major exams like GRE, CAT, GMAT
+
+Stay on top of registration deadlines, exam day checklists, and updates
+
+📑 Syllabus At a Glance
+Browse subject-wise official syllabus for your exam
+
+No more wasting time hunting down outdated or unofficial sources
+
+🧪 Mock Tests & Practice Links
+Access curated mock tests and practice questions
+
+Handpicked reliable links to simulate real exam experience
+
+
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
