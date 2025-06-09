@@ -5,26 +5,26 @@ iOS Study Companion is your all-in-one mobile app built with React Native, desig
 
 **✨ Features**
 🔍 Intelligent Summarization
-Converts long PDFs and text files into concise bullet-point summaries
+-Converts long PDFs and text files into concise bullet-point summaries
 
-Uses T5 Mini Transformer model for fast, accurate NLP-based summarization
+-Uses T5 Mini Transformer model for fast, accurate NLP-based summarization
 
-Perfect for revision, note-taking, and extracting key concepts from bulky content
+-Perfect for revision, note-taking, and extracting key concepts from bulky content
 
 📆 Exam Tracker & Resources
-View upcoming test dates for major exams like GRE, CAT, GMAT
+-View upcoming test dates for major exams like GRE, CAT, GMAT
 
-Stay on top of registration deadlines, exam day checklists, and updates
+-Stay on top of registration deadlines, exam day checklists, and updates
 
 📑 Syllabus At a Glance
-Browse subject-wise official syllabus for your exam
+-Browse subject-wise official syllabus for your exam
 
-No more wasting time hunting down outdated or unofficial sources
+-No more wasting time hunting down outdated or unofficial sources
 
 🧪 Mock Tests & Practice Links
-Access curated mock tests and practice questions
+-Access curated mock tests and practice questions
 
-Handpicked reliable links to simulate real exam experience
+-Handpicked reliable links to simulate real exam experience
 
 
 
